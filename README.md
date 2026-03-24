@@ -1,6 +1,6 @@
 # Evaluation-Slot-Comparison-Tool
 
-A desktop tool that compares two Excel Evaluation Slot Detail files and generates a structured multi-sheet report — built to support the Petrotech and Investment teams in tracking changes between MTM runs.
+The Evaluation Slot Comparison Tool is an internal desktop application built in Python that automates the comparison of two Excel evaluation files generated from MTM (Mark-to-Market) runs. Designed for the Petrotech and Investment teams, this tool eliminates the need for manual cross-referencing by producing a structured, multi-sheet Excel report in just a few clicks.
 
 ## What It Does
 
