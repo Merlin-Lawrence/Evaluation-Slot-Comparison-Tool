@@ -34,4 +34,4 @@ A popup window will guide you through the rest — no command line needed after 
 
 ---
 
-> 📖 Full user guide available on [Confluence](#)
+> Full user guide available on [https://srpatx.atlassian.net/wiki/spaces/~7120206e0cb16575524b9da00d0b47c1094de2/pages/2481356847/Evaluation+Slot+Comparison+Tool](#)
